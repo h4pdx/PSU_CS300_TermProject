@@ -3,11 +3,11 @@ Portland State University, CS 300 Software Engineering - Group Project.
 
 # I contributed only Database.java
 team members:
-https://github.com/i4mTheWalrus
-https://github.com/michaelheyman
-https://github.com/dreimerPDX
-https://github.com/homogenousmass
-https://github.com/mikeisboring
+- https://github.com/i4mTheWalrus
+- https://github.com/michaelheyman
+- https://github.com/dreimerPDX
+- https://github.com/homogenousmass
+- https://github.com/mikeisboring
 
 
 # Chocoholics Anonymous
