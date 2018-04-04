@@ -1,11 +1,10 @@
-# PSU_CS300_TermProject
 ## ChocAn - *Chocaholics Anonymous* Group Project
 ### Portland State University
 ### CS 300 *Software Engineering*
   
 #### My contributions include:
 + Database.java
-+ *Functional Requirements* section of Requirements Docuement
++ *Functional Requirements* section of Requirements Document
 + Various contributions to Design Document
 
 #### Group4 Team Members:
