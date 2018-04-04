@@ -1,6 +1,5 @@
 # PSU_CS300_TermProject
 ## ChocAn - *Chocaholics Anonymous* Group Project
-------
 ### Portland State University
 ### CS 300 *Software Engineering*
   
