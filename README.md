@@ -1,17 +1,20 @@
-<<<<<<< HEAD
 # PSU_CS300_TermProject
-Chocaholics Anonymous - I take credit only for Database.java
-=======
-# PSU_cs300_TermProject
-Portland State University, CS 300 Software Engineering - Group Project.
+## ChocAn - *Chocaholics Anonymous* Group Project
+------
+### Portland State University
+### CS 300 *Software Engineering*
+  
+#### My contributions include:
++ Database.java
++ *Functional Requirements* section of Requirements Docuement
++ Various contributions to Design Document
 
-# I contributed only Database.java
-team members:
-- https://github.com/i4mTheWalrus
-- https://github.com/michaelheyman
-- https://github.com/dreimerPDX
-- https://github.com/homogenousmass
-- https://github.com/mikeisboring
+#### Group4 Team Members:
++ [Tyler R.](https://github.com/i4mTheWalrus)   
++ [Michael H.](https://github.com/michaelheyman)  
++ [Daniel R.](https://github.com/dreimerPDX)  
++ [Nelson R.](https://github.com/homogenousmass)  
++ [Michael A.](https://github.com/mikeisboring)  
 
 
 # Chocoholics Anonymous
@@ -72,4 +75,3 @@ During the day, the software at the ChocAn Data Center is run in interactive mod
 The processing of payments of ChocAn membership fees has been contracted out to Acme Accounting Services, a third-party organization. Acme is responsible for financial procedures such as recording payments of membership fees, suspending members whose fees are overdue, and reinstating suspended members who have now paid what was owed. The Acme computer updates the relevant ChocAn Data Center membership records each evening at 9 P.M.
 
 Your organization has been awarded the contract to write only the ChocAn data processing software; another organization will be responsible for the communications software, for designing the ChocAn provider’s terminal, for the software needed by Acme Accounting Services, and for implementing the EFT component. The contract states that, at the acceptance test, the data from a provider’s terminal must be simulated by keyboard input and data to be transmitted to a provider’s terminal display must appear on the screen. A manager’s terminal must be simulated by the same keyboard and screen. Each member report must be written to its own file; the name of the file should begin with the member name followed by the date of the report. The provider reports should be handled in the same way. The Provider Directory must also be created as a file. None of the files should actually be sent as e-mail attachments. As for the EFT data, all that is required is that a file be set up containing the provider name, provider number, and the amount to be transferred.
->>>>>>> 3ff99bc8384a6fa899ca1a6938d031f7fcd9dc46
