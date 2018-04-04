@@ -8,13 +8,12 @@
 + *Functional Requirements* section of Requirements Document
 + Various contributions to Design Document
 
-#### Group4 Team Members:
-+ [Tyler R.](https://github.com/i4mTheWalrus)   
+#### *Group4* Team Members:
++ [Tyler R.](https://github.com/i4mTheWalrus)
 + [Michael H.](https://github.com/michaelheyman)  
 + [Daniel R.](https://github.com/dreimerPDX)  
 + [Nelson R.](https://github.com/homogenousmass)  
 + [Michael A.](https://github.com/mikeisboring)  
-
 
 # *Chocoholics Anonymous* Project File
 
