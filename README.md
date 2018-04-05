@@ -1,10 +1,10 @@
 # ChocAn
-### *Chocaholics Anonymous* Group Project
-### Portland State University
+### Group Project "*Chocaholics Anonymous*"
 ### CS 300 *Software Engineering*
+### Portland State University
   
 #### My contributions include:
-+ Database.java
++ `Database.java`
 + *Functional Requirements* section of Requirements Document
 + Various contributions to Design Document
 
@@ -15,10 +15,10 @@
 + [Nelson R.](https://github.com/homogenousmass)  
 + [Michael A.](https://github.com/mikeisboring)  
 
-# *Chocoholics Anonymous* Project File
+# *Chocoholics Anonymous* Project Document
 
-Chocoholics Anonymous (ChocAn) is an organization dedicated to helping people addicted to chocolate in all its glorious forms. Members pay a monthly fee to ChocAn. For this fee they are entitled to unlimited consultations and treatments with health care professionals, namely, dietitians, internists, and exercise specialists. Every member is given a plastic card embossed with the member’s name and a nine-digit member number and incorporating a magnetic strip on which that information is encoded. Each health care professional (provider) who provides services to ChocAn members has a specially designed ChocAn computer terminal, similar to a credit card machine in a shop. When a provider’s terminal is switched on, the provider is asked to enter his or her provider number.
-
+   Chocoholics Anonymous (ChocAn) is an organization dedicated to helping people addicted to chocolate in all its glorious forms. Members pay a monthly fee to ChocAn. For this fee they are entitled to unlimited consultations and treatments with health care professionals, namely, dietitians, internists, and exercise specialists. Every member is given a plastic card embossed with the member’s name and a nine-digit member number and incorporating a magnetic strip on which that information is encoded. Each health care professional (provider) who provides services to ChocAn members has a specially designed ChocAn computer terminal, similar to a credit card machine in a shop. When a provider’s terminal is switched on, the provider is asked to enter his or her provider number.
+   
 To receive health care services from ChocAn, the member hands his or her card to the provider, who slides the card through the card reader on the terminal. The terminal then dials the ChocAn Data Center, and the ChocAn Data Center computer verifies the member number. If the number is valid, the word `Validated` appears on the one-line display. If the number is not valid, the reason is displayed, such as `Invalid Number` or `Member suspended`; the latter message indicated that fees are owed (that is, the member has not paid membership fees for at least a month) and member status has been set to suspended.
 
 To bill ChocAn after a health care service has been provided to the member, the provider again passes the card through the card reader (or keys in the member number). When the word `Validated` appears, the provider keys in the date the service was provided in the format `MM-DD-YYYY`. The date of service is needed because hardware or other difficulties may have prevented the provider from billing ChocAn immediately after providing the service. Next, the provider users the Provider Directory to look up the appropriate six-digit service code corresponding to the service provided. For example, 598470 is the code for a session with a dietitian, whereas 883948 is the code for an aerobics exercise session. The provider then keys in the service code. To check that the service code has been correctly looked up and keyed in, the software product then displays the name of the service corresponding to the code (up to 20 characters) and asks the provider to verify that this is indeed the service that was provided. If the provider has entered a nonexistent code, an error message is printed. The provider also can enter comments about the service provided.
